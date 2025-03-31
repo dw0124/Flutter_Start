@@ -52,6 +52,7 @@ class MyHomePage extends StatelessWidget {
               //mainAxisAlignment: MainAxisAlignment.center,
               children: [
                 Text("hello"),
+                Text("hello"),
               ],
             ),
       ),
